@@ -1,0 +1,19 @@
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'linux'
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.8.10 (default, Mar 15 2022, 12:22:08) \n[GCC 9.4.0]'
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: 6.0.6-3a73a75311~116~ubuntu20.04.1
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x7f6bb3d89dc0>
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with U3002 as a reference
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'U3002'
+Located on: ['v3s', 'buck converter V3s']
+With filenames: ['v3s.kicad_sch', 'buck_converter_V3s.kicad_sch']
+With sheet_id:['v3s', 'buck converter V3s']
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
+[('U3002', ['v3s', 'buck converter V3s'])]
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(3485, 102)
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(3121, 102)
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'v3s', file:'v3s.kicad_sch'
+07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[]
+07-13 02:23:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 224:User canceled the dialog

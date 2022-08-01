@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "xconch")(type "KiCad")(uri "/home/john/code/electro/xconch/xconch-kicad-library/symbols/xconch.kicad_sym")(options "")(descr ""))
+  (lib (name "EA_3046_buck_converter")(type "KiCad")(uri "${KIPRJMOD}/EA_3046_buck_converter.kicad_sym")(options "")(descr ""))
+)
