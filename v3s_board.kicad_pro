@@ -551,6 +551,10 @@
     [
       "82d91010-9c5f-4fff-a514-ef7c0ddecdff",
       "buck converter V3s"
+    ],
+    [
+      "76c4434f-1096-453e-bca1-67fffd096247",
+      "ethernet_port_no_phy"
     ]
   ],
   "text_variables": {}
