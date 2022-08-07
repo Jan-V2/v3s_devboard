@@ -555,6 +555,10 @@
     [
       "76c4434f-1096-453e-bca1-67fffd096247",
       "ethernet_port_no_phy"
+    ],
+    [
+      "89a3f9f0-2b1f-4d65-b780-662fe66e806b",
+      "SD_card"
     ]
   ],
   "text_variables": {}

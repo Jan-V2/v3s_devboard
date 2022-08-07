@@ -1,4 +1,5 @@
 (sym_lib_table
-  (lib (name "xconch")(type "KiCad")(uri "${KIPRJMOD}/v3s.kicad_sym")(options "")(descr ""))
-  (lib (name "EA_3046_buck_converter")(type "KiCad")(uri "${KIPRJMOD}/EA_3046_buck_converter.kicad_sym")(options "")(descr ""))
+  (lib (name "Allwinner V3s")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/v3s.kicad_sym")(options "")(descr ""))
+  (lib (name "EA_3046_buck_converter")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/EA_3046_buck_converter.kicad_sym")(options "")(descr ""))
+  (lib (name "HR911105A")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/HR911105A.kicad_sym")(options "")(descr ""))
 )
