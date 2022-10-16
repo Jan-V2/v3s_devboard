@@ -137,6 +137,10 @@
           "drill": 0.25
         },
         {
+          "diameter": 0.5,
+          "drill": 0.3
+        },
+        {
           "diameter": 0.6,
           "drill": 0.4
         },
@@ -352,13 +356,13 @@
       "hier_label_mismatch": "error",
       "label_dangling": "error",
       "lib_symbol_issues": "warning",
-      "multiple_net_names": "warning",
+      "multiple_net_names": "ignore",
       "net_not_bus_member": "warning",
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "unannotated": "error",
@@ -432,7 +436,7 @@
       },
       {
         "bus_width": 12.0,
-        "clearance": 0.1,
+        "clearance": 0.15,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -559,6 +563,22 @@
     [
       "89a3f9f0-2b1f-4d65-b780-662fe66e806b",
       "SD_card"
+    ],
+    [
+      "95f8e96e-9aae-4a02-86f9-008df1ffe3b2",
+      "rgb_to_vga"
+    ],
+    [
+      "22d41468-99b0-4c97-991f-29547b0ee51e",
+      "cp2102_usb_to_uart"
+    ],
+    [
+      "51c24c3e-7375-4d39-b4b7-b142e65acea0",
+      "cp2102_usb_to_uart1"
+    ],
+    [
+      "ad6079b6-9b65-4c73-98a6-5aeedb343e63",
+      "usb2-0_hub_hs8836A"
     ]
   ],
   "text_variables": {}

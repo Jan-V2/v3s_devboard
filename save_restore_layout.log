@@ -1,30 +1,30 @@
-07-13 02:23:31 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 149:Plugin executed on: 'linux'
-07-13 02:23:31 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 150:Plugin executed with python version: '3.8.10 (default, Mar 15 2022, 12:22:08) \n[GCC 9.4.0]'
-07-13 02:23:31 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 151:KiCad build version: 6.0.6-3a73a75311~116~ubuntu20.04.1
-07-13 02:23:31 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 152:Plugin version: 1.1.2
-07-13 02:23:31 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 153:Frame repr: <wx._core.Frame object at 0x7f6bb3d89dc0>
-07-13 02:23:31 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 171:Anchor footprint reference is 'U3002'
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 180:Save layout chosen
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 281:Working on /home/john/code/electro/v3s_board/v3s_board.kicad_pcb
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 286:Saving the current board temporary in order to leave current layout intact
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 292:Saving board as tempfile: /tmp/temp_board_file_for_save.kicad_pcb
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 297:Loaded temp boardfile: /tmp/temp_board_file_for_save.kicad_pcb
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 298:Get project schematics and layout data
-07-13 02:23:32 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 219:Saving the layout in '/home/john/code/electro/v3s_board/ea3036_conv.pckl' for level 1
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 309:Saving layout for level: ['v3s', 'buck converter V3s']
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 310:Calculating hash of the layout schematics
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 314:Saving hash for files: ['buck_converter_V3s.kicad_sch']
-07-13 02:24:03 root 325:Source footprints are: ['R3004', 'L3003', 'TP3003', 'C3001', 'TP3002', 'C3002', 'R3006', 'R3005', 'C3007', 'C3004', 'TP3005', 'TP3001', 'C3005', 'C3006', 'C3010', 'R3003', 'C3003', 'L3001', 'U3001', 'C3008', 'C3009', 'L3002', 'R3002', 'TP3004', 'C3011', 'R3001', 'U3002']
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 336:Removing everything else from the layout
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 403:Removing text
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 382:Removing drawing
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 424:Removing zones
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 443:Removing tracks
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 445:Bounding box points: (67840400, 82860600, 168345000, 194775000)
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 466:Removing footprints
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 354:Saving layout in temporary file
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 358:Reading layout as text
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 365:Saving layout data
-07-13 02:24:03 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 379:Successfully saved the layout
+10-02 19:00:45 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 149:Plugin executed on: 'linux'
+10-02 19:00:45 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 150:Plugin executed with python version: '3.8.10 (default, Jun 22 2022, 20:18:18) \n[GCC 9.4.0]'
+10-02 19:00:45 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 151:KiCad build version: 6.0.7-f9a2dced07~116~ubuntu20.04.1
+10-02 19:00:45 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 152:Plugin version: 1.1.2
+10-02 19:00:45 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 153:Frame repr: <wx._core.Frame object at 0x7fd5fb8878b0>
+10-02 19:00:45 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 171:Anchor footprint reference is 'J6001'
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 180:Save layout chosen
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 281:Working on /home/john/code/electro/v3s_board/v3s_board.kicad_pcb
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 286:Saving the current board temporary in order to leave current layout intact
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 292:Saving board as tempfile: /tmp/temp_board_file_for_save.kicad_pcb
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 297:Loaded temp boardfile: /tmp/temp_board_file_for_save.kicad_pcb
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 298:Get project schematics and layout data
+10-02 19:00:47 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 219:Saving the layout in '/home/john/code/electro/v3s_board/vga.pckl' for level 1
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 309:Saving layout for level: ['v3s', 'rgb_to_vga']
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 310:Calculating hash of the layout schematics
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 314:Saving hash for files: ['rgb_to_vga.kicad_sch']
+10-02 19:01:01 root 325:Source footprints are: ['R6015', 'Q6002', 'Q6003', 'R6017', 'R6024', 'Q6001', 'R6021', 'R6013', 'R6019', 'R6004', 'R6010', 'D6005', 'R6012', 'R6020', 'R6001', 'R6009', 'R6022', 'U6002', 'R6008', 'R6005', 'D6003', 'C6001', 'C6002', 'D6001', 'C6003', 'R6018', 'U6001', 'R6023', 'R6003', 'U6003', 'J6001', 'R6006', 'R6007', 'D6002', 'R6016', 'R6011', 'D6004', 'R6025', 'R6014', 'R6002']
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 336:Removing everything else from the layout
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 403:Removing text
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 382:Removing drawing
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 424:Removing zones
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 443:Removing tracks
+10-02 19:01:01 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 445:Bounding box points: (52075000, 108655000, -16874669, 16390000)
+10-02 19:01:02 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 466:Removing footprints
+10-02 19:01:02 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 354:Saving layout in temporary file
+10-02 19:01:02 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 358:Reading layout as text
+10-02 19:01:02 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 365:Saving layout data
+10-02 19:01:02 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 379:Successfully saved the layout

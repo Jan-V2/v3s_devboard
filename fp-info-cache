@@ -1,4 +1,4 @@
-20335442660935925
+20343746063483891
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -85203,6 +85203,34 @@ igbt diode module
 0
 25
 25
+USB-C-connectors
+TYPE-C-31-M-12-top_mnt-16p
+Korean Hroparts Elec, Power only USB connector supporting up to 3A
+
+0
+20
+17
+USB-C-connectors
+TYPE-C-31-M-14_top_mnt_usb2
+Korean Hroparts Elec, Power only USB connector supporting up to 3A
+
+0
+20
+17
+USB-C-connectors
+TYPE-C-31-M-17_handsolder_top_mnt_pwr_only
+Korean Hroparts Elec, Power only USB connector supporting up to 3A, easier to solder w/0.3mm pad separation
+
+0
+10
+7
+USB-C-connectors
+TYPE-C-31-M-17_top_mnt_pwr_only
+Korean Hroparts Elec, Power only USB connector supporting up to 3A
+
+0
+10
+7
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -85973,3 +86001,10 @@ varistor SIOV
 0
 2
 2
+soc_part_footprints
+HANRUN_HR911105A
+
+
+0
+14
+14

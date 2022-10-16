@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "soc_part_footprints")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/soc_part_footprints.pretty")(options "")(descr ""))
+  (lib (name "USB-C-connectors")(type "KiCad")(uri "${KIPRJMOD}/USB-C-connectors/USB-C-connectors.pretty")(options "")(descr ""))
 )

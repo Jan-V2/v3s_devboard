@@ -1,19 +1,68 @@
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'linux'
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.8.10 (default, Mar 15 2022, 12:22:08) \n[GCC 9.4.0]'
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: 6.0.6-3a73a75311~116~ubuntu20.04.1
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x7f6bb3d89dc0>
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with U3002 as a reference
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'U3002'
-Located on: ['v3s', 'buck converter V3s']
-With filenames: ['v3s.kicad_sch', 'buck_converter_V3s.kicad_sch']
-With sheet_id:['v3s', 'buck converter V3s']
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
-[('U3002', ['v3s', 'buck converter V3s'])]
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(3485, 102)
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(3121, 102)
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'v3s', file:'v3s.kicad_sch'
-07-13 02:23:17 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[]
-07-13 02:23:21 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 224:User canceled the dialog
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 295:Plugin executed on: 'linux'
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 296:Plugin executed with python version: '3.8.10 (default, Jun 22 2022, 20:18:18) \n[GCC 9.4.0]'
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 297:KiCad build version: 6.0.6-3a73a75311~116~ubuntu20.04.1
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 298:Plugin version: 1.1.2
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 299:Frame repr: <wx._core.Frame object at 0x7fd4063038b0>
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 323:Preparing replicator with U7001 as a reference
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 98:getting a list of all footprints on board
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 351:source anchor footprint is 'U7001'
+Located on: ['v3s', 'cp2102_usb_to_uart']
+With filenames: ['v3s.kicad_sch', 'cp2102_usb_to_uart.kicad_sch']
+With sheet_id:['v3s', 'cp2102_usb_to_uart']
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 358:Corresponding footprints are 
+[('U8001', ['v3s', 'cp2102_usb_to_uart1']), ('U7001', ['v3s', 'cp2102_usb_to_uart'])]
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 370:Showing dialog
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 376:Toolbar position: wx.Point(3166, 88)
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 382:Dialog position: wx.Point(2802, 88)
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'v3s', file:'v3s.kicad_sch'
+08-19 15:53:47 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[]
+08-19 15:53:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'cp2102_usb_to_uart', file:'cp2102_usb_to_uart.kicad_sch'
+08-19 15:53:50 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['v3s', 'cp2102_usb_to_uart1']]
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:constructing a list of sheets suitable for replication on level:'cp2102_usb_to_uart', file:'cp2102_usb_to_uart.kicad_sch'
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 372:suitable sheets are:[['v3s', 'cp2102_usb_to_uart1']]
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 145:Replicating layout
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 146:Starting replication of sheets: [['v3s', 'cp2102_usb_to_uart1']]
+on level: ['v3s', 'cp2102_usb_to_uart']
+with tracks=True, zone=True, text=True, containing=True, remove=False, locked=False, by_group=False
+08-19 15:54:00 root 235:updating GUI message: 'Preparing for replication'
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 215:Getting the list of source footprints
+08-19 15:54:00 root 240:updating GUI with: 0
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 230:Getting the list of all the remaining footprints
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 235:Getting nets local to source footprints
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 238:Getting source bounding box
+08-19 15:54:00 com_github_MitjaNemec_ReplicateLayout.replicate_layout 242:Getting source tracks
+08-19 15:54:00 root 240:updating GUI with: 50
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 257:Getting source zones
+08-19 15:54:01 root 240:updating GUI with: 62
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 266:Getting source text items
+08-19 15:54:01 root 240:updating GUI with: 75
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 275:Getting source drawing items
+08-19 15:54:01 root 240:updating GUI with: 87
+08-19 15:54:01 root 235:updating GUI message: 'Replicating footprints'
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 669:Replicating footprints
+08-19 15:54:01 root 240:updating GUI with: 0
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 675:Replicating footprints on sheet ['v3s', 'cp2102_usb_to_uart1']
+08-19 15:54:01 root 240:updating GUI with: 90
+08-19 15:54:01 root 240:updating GUI with: 100
+08-19 15:54:01 root 235:updating GUI message: 'Replicating tracks'
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 835:Replicating tracks
+08-19 15:54:01 root 240:updating GUI with: 0
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 841:Replicating tracks on sheet ['v3s', 'cp2102_usb_to_uart1']
+08-19 15:54:01 root 240:updating GUI with: 1
+08-19 15:54:01 root 240:updating GUI with: 93
+08-19 15:54:01 root 240:updating GUI with: 94
+08-19 15:54:01 root 235:updating GUI message: 'Replicating zones'
+08-19 15:54:01 root 240:updating GUI with: 0
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 893:Replicating zones
+08-19 15:54:01 root 240:updating GUI with: 0
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 900:Replicating zones on sheet ['v3s', 'cp2102_usb_to_uart1']
+08-19 15:54:01 root 235:updating GUI message: 'Replicating text'
+08-19 15:54:01 root 240:updating GUI with: 0
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 963:Replicating text
+08-19 15:54:01 root 240:updating GUI with: 0
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 970:Replicating text on sheet ['v3s', 'cp2102_usb_to_uart1']
+08-19 15:54:01 root 235:updating GUI message: 'Replicating drawings'
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1003:Replicating drawings
+08-19 15:54:01 root 240:updating GUI with: 0
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1009:Replicating drawings on sheet ['v3s', 'cp2102_usb_to_uart1']
+08-19 15:54:01 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 169:Replication complete

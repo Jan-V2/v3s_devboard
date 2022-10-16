@@ -2,4 +2,6 @@
   (lib (name "Allwinner V3s")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/v3s.kicad_sym")(options "")(descr ""))
   (lib (name "EA_3046_buck_converter")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/EA_3046_buck_converter.kicad_sym")(options "")(descr ""))
   (lib (name "HR911105A")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/HR911105A.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74ALVC244PWR_line_driver")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/SN74ALVC244PWR_line_driver.kicad_sym")(options "")(descr ""))
+  (lib (name "HS8836A_USB2-0_hub")(type "KiCad")(uri "${KIPRJMOD}/soc_parts/HS8836A_USB2-0_hub.kicad_sym")(options "")(descr ""))
 )
